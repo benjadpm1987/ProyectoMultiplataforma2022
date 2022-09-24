@@ -9,7 +9,7 @@ public class AccionesCirculo : MonoBehaviour
     {
         
     }
-
+viva el perú xd
     // Update is called once per frame
     void Update()
     {
