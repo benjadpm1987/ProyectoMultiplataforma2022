@@ -20,6 +20,7 @@ public class AccionesCirculo : MonoBehaviour
     {
         //Destroy(collision.gameObject);
         collision.transform.position = new Vector3(0, 4, 0);
+	Destroy(collision.gameObject);
         Debug.Log("ESTA CHOCANDO");
     }
 }
