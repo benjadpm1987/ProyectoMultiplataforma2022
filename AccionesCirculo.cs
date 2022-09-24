@@ -22,6 +22,6 @@ no xd
         collision.transform.position = new Vector3(0, 4, 0);
 	Destroy(collision.gameObject);
 	transoform.position.x = 10;
-        Debug.Log("ESTA CHOCANDO");
+        Debug.Log("ESTA CHOCANDO");sdfsdfsdfsd
     }
 }
